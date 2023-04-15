@@ -23,6 +23,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@storyblok/svelte": "^3.0.0"
+		"@storyblok/svelte": "^3.0.0",
+		"svelte-preprocess": "^5.0.3",
+		"typescript": "^5.0.4"
 	}
 }
